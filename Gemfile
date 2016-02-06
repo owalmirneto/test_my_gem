@@ -45,4 +45,4 @@ group :development do
   gem 'spring'
 end
 
-gem 'array_to_average', path: '/home/walmir/workspace/ruby/gems/array_to_average'
+gem 'array_to_average', '~> 0.0.1'
