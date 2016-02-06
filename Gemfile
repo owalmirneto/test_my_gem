@@ -44,3 +44,5 @@ group :development do
   # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
   gem 'spring'
 end
+
+gem 'array_to_average', path: '/home/walmir/workspace/ruby/gems/array_to_average'
