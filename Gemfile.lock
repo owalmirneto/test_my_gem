@@ -1,3 +1,8 @@
+PATH
+  remote: /home/walmir/workspace/ruby/gems/array_to_average
+  specs:
+    array_to_average (0.0.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -141,6 +146,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  array_to_average!
   byebug
   coffee-rails (~> 4.1.0)
   jbuilder (~> 2.0)
